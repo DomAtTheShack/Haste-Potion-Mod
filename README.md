@@ -34,6 +34,7 @@ To compile the HastePotion Mod, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/hastepotion.git
-   cd hastepotion
+   git clone https://github.com/DomAtTheShack/Haste-Potion-Mod.git
+   cd Haste-Potion-Mod
+   ./gradlew build
 
