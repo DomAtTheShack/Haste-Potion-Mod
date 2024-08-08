@@ -1,0 +1,14 @@
+{
+  "item.minecraft.potion.effect.haste_potion": "Potion of Haste",
+  "item.minecraft.splash_potion.effect.haste_potion": "Splash Potion of Haste",
+  "item.minecraft.lingering_potion.effect.haste_potion": "Lingering Potion of Haste",
+  "item.minecraft.tipped_arrow.effect.haste_potion": "Arrow of Haste",
+  "item.minecraft.potion.effect.haste_potion_strong": "Potion of Haste",
+  "item.minecraft.splash_potion.effect.haste_potion_strong": "Splash Potion of Haste",
+  "item.minecraft.lingering_potion.effect.haste_potion_strong": "Lingering Potion of Haste",
+  "item.minecraft.tipped_arrow.effect.haste_potion_strong": "Arrow of Haste",
+  "item.minecraft.potion.effect.haste_potion_long": "Potion of Haste",
+  "item.minecraft.splash_potion.effect.haste_potion_long": "Splash Potion of Haste",
+  "item.minecraft.lingering_potion.effect.haste_potion_long": "Lingering Potion of Haste",
+  "item.minecraft.tipped_arrow.effect.haste_potion_long": "Arrow of Haste"
+}

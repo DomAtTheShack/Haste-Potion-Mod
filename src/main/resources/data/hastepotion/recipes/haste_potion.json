@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:brewing",
+  "ingredient": {
+    "item": "minecraft:coal"
+  },
+  "base": {
+    "item": "minecraft:awkward_potion"
+  },
+  "result": {
+    "item": "hastepotion:haste_potion"
+  }
+}
