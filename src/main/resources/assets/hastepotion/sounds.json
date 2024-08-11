@@ -1,0 +1,37 @@
+{
+  "dom_disk_1":
+  {
+    "sounds": [{
+      "name": "hastepotion:dom_disk_1",
+      "stream": true
+    }]
+  },
+  "dom_disk_2":
+  {
+    "sounds": [{
+      "name": "hastepotion:dom_disk_2",
+      "stream": true
+    }]
+  },
+  "dom_disk_3":
+  {
+    "sounds": [{
+      "name": "hastepotion:dom_disk_3",
+      "stream": true
+    }]
+  },
+  "dom_disk_4":
+  {
+    "sounds": [{
+      "name": "hastepotion:dom_disk_4",
+      "stream": true
+    }]
+  },
+  "dom_disk_5":
+  {
+    "sounds": [{
+      "name": "hastepotion:dom_disk_5",
+      "stream": true
+    }]
+  }
+}

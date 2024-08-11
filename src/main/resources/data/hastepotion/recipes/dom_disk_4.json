@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "XYX",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:apple"
+    },
+    "Y": {
+      "item": "minecraft:coal"
+    }
+  },
+  "result": {
+    "item": "hastepotion:dom_disk_4"
+  }
+}

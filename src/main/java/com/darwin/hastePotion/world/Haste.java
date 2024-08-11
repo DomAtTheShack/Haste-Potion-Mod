@@ -1,6 +1,8 @@
 package com.darwin.hastePotion.world;
 
+import com.darwin.hastePotion.item.ModItems;
 import com.darwin.hastePotion.item.ModPotions;
+import com.darwin.hastePotion.sound.ModSounds;
 import com.darwin.hastePotion.util.BetterBrewingRecipe;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
@@ -34,6 +36,8 @@ public class Haste {
         // Register the item
         ITEMS.register(modEventBus);
         ModPotions.register(modEventBus);
+        ModItems.register(modEventBus);
+        ModSounds.register(modEventBus);
 
         // Register the client setup method
         modEventBus.addListener(this::clientSetup);

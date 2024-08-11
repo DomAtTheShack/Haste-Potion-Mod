@@ -10,5 +10,16 @@
   "item.minecraft.potion.effect.haste_potion_long": "Potion of Haste",
   "item.minecraft.splash_potion.effect.haste_potion_long": "Splash Potion of Haste",
   "item.minecraft.lingering_potion.effect.haste_potion_long": "Lingering Potion of Haste",
-  "item.minecraft.tipped_arrow.effect.haste_potion_long": "Arrow of Haste"
+  "item.minecraft.tipped_arrow.effect.haste_potion_long": "Arrow of Haste",
+
+  "item.hastepotion.dom_disk_1": "§9Music Disc",
+  "item.hastepotion.dom_disk_1.desc" : "Bambee - Bumble Bee",
+  "item.hastepotion.dom_disk_2": "§9Music Disc",
+  "item.hastepotion.dom_disk_2.desc" : "Bluey - Dance Mode",
+  "item.hastepotion.dom_disk_3": "§9Music Disc",
+  "item.hastepotion.dom_disk_3.desc" : "Bluey - A Message from the Faries",
+  "item.hastepotion.dom_disk_4": "§9Music Disc",
+  "item.hastepotion.dom_disk_4.desc" : "Fleetwood Mac - Little Lies",
+  "item.hastepotion.dom_disk_5": "§9Music Disc",
+  "item.hastepotion.dom_disk_5.desc" : "Violent Femmes - Blister in the Sun"
 }
